@@ -21,14 +21,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-| ![](desktop-design | ![](mobile-design) |
+| ![](./design/desktop-design.jpg) | ![](./design/mobile-design.jpg) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
 ### Links
 
-- Solution URL: [GitHub Code](https://github.com/Dayne2x/Product-Preview-Card)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Product-Preview-Card/)
+- Solution URL: [GitHub Code](https://github.com/Dayne2x/Order-Summary-Component)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -41,12 +41,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-This is the first ever project I did at FrontEnd Mentor. With the use of @media queries I have also achieved optimal responsiveness when viewed on mobile devices.
+This is the third project from FrontEnd Mentor. This is the first project that required a special background to be applied to the page as well as "box-shadow" property in addition to active states.
 
 
 ### Continued development
 
-I aim to research and learn more methods for a quicker setup of a basic layout of the webpage.
+In future projects I would like to place more backgrounds in order to practise positioning.
 
 
 
